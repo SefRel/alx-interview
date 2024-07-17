@@ -1,1 +1,1 @@
-Pascal Triangle Explanation
+Pascal Triangle Explanation task
